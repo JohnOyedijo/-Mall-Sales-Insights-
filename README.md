@@ -33,4 +33,4 @@ Before analysis, I ensured the dataset's accuracy and reliability through thorou
 - **Shopping Mall Sales:** Mall of Istanbul had the highest sales, with four prominent malls contributing to 65% of total sales.
 - **Sales by Age Group:** The 55 and older age group had the highest sales at 28.46%, while the 18-24 age group had the least.
 
-Let's delve into the data and uncover insights together!
+Let's analyse the data and uncover insights together!
